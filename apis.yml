@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Financial Services
-  - Credit Data
-  - Lending
   - Banking
+  - Credit Data
+  - Financial Services
+  - Lending
 url: >-
   https://raw.githubusercontent.com/api-evangelist/meridianlink/refs/heads/main/apis.yml
 created: '2025-02-24'
