@@ -14,7 +14,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/meridianlink/refs/heads/main/apis.yml
 created: '2025-02-24'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis:
   - aid: meridianlink:meridianlink-credit-api
