@@ -33,6 +33,11 @@ apis:
 common:
   - type: Website
     url: https://www.meridianlink.com/
+  - type: Integrations
+    url: https://www.meridianlink.com/marketplace/
+integrations:
+  - name: Browse Partners
+  - name: become a partner
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
