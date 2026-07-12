@@ -31,12 +31,16 @@ apis:
       - type: Documentation
         url: https://www.meridianlink.com/products/credit-api/
 common:
+  - type: DomainSecurity
+    url: security/meridianlink-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/meridianlink
   - type: Website
     url: https://www.meridianlink.com/
   - type: Integrations
     url: https://www.meridianlink.com/marketplace/
+  - url: https://www.meridianlink.com/feed/
+    type: Blog
 integrations:
   - name: Browse Partners
   - name: become a partner
