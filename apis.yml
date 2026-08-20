@@ -21,6 +21,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/meridianli
 tags:
   - Banking
   - Credit Data
+  - Financial-Services
+  - Lending
+tags_raw:
+  - Banking
+  - Credit Data
   - Financial Services
   - Lending
 url: >-
@@ -37,6 +42,9 @@ apis:
       institution workflows.
     humanURL: https://www.meridianlink.com/products/credit-api/
     tags:
+      - Credit Data
+      - Financial-Services
+    tags_raw:
       - Credit Data
       - Financial Services
     properties:
