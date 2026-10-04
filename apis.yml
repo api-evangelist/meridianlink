@@ -32,13 +32,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/meridianli
 tags:
   - Banking
   - Credit Data
-  - Financial-Services
+  - Financial Services
   - Lending
 tags_raw:
   - Banking
   - Credit Data
   - Financial Services
   - Lending
+  - Financial-Services
 url: >-
   https://raw.githubusercontent.com/api-evangelist/meridianlink/refs/heads/main/apis.yml
 created: '2025-02-24'
@@ -54,10 +55,11 @@ apis:
     humanURL: https://www.meridianlink.com/products/credit-api/
     tags:
       - Credit Data
-      - Financial-Services
+      - Financial Services
     tags_raw:
       - Credit Data
       - Financial Services
+      - Financial-Services
     properties:
       - type: Documentation
         url: https://www.meridianlink.com/products/credit-api/
